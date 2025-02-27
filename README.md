@@ -2,7 +2,7 @@
 
 ### Technologies:
 
-🐍 Python • 🌿 Django • ⚡ FastAPI • 🎯 DRF • 🐘 PostgreSQL • 🌱 Git • 🐳 Docker • 🚦 Nginx • 🦄 Gunicorn • ⚙️ CI/CD • 🧪 Unittest  
+🐍 Python • 🌿 Django • ⚡ FastAPI • 🎯 DRF • 🐘 PostgreSQL • 🌱 Git • 🐳 Docker • 🚦 Nginx • 🦄 Gunicorn • ⚙️ CI/CD • 🧪 Unittest • 🌡 Pytest
 
 
 ### 📫 My contacts:
